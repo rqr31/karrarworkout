@@ -1,0 +1,660 @@
+{
+ "program": {
+  "name": "تمارين الأسبوع الأول",
+  "week": 1
+ },
+ "days": [
+  {
+   "weekday": "الثلاثاء",
+   "title": "دفع",
+   "type": "push",
+   "icon": "💪",
+   "warmup": [
+    {
+     "name": "مشي في المكان",
+     "anim": "walk",
+     "type": "timer",
+     "duration": 60,
+     "sets": 1,
+     "rest": 10,
+     "note": "دقيقة واحدة",
+     "en": "March in Place"
+    },
+    {
+     "name": "دوائر الذراعين",
+     "anim": "arm-circles",
+     "type": "reps",
+     "reps": 10,
+     "sets": 1,
+     "rest": 10,
+     "note": "10 في كل اتجاه",
+     "en": "Arm Circles"
+    },
+    {
+     "name": "قطة – بقرة",
+     "anim": "cat-cow",
+     "type": "reps",
+     "reps": 10,
+     "sets": 1,
+     "rest": 10,
+     "en": "Cat-Cow"
+    },
+    {
+     "name": "سكوات بطيء",
+     "anim": "squat",
+     "type": "reps",
+     "reps": 10,
+     "sets": 1,
+     "rest": 10,
+     "en": "Slow Squats"
+    },
+    {
+     "name": "الدودة",
+     "anim": "pike-pushup",
+     "type": "reps",
+     "reps": 5,
+     "sets": 1,
+     "rest": 30,
+     "en": "Inchworm"
+    }
+   ],
+   "exercises": [
+    {
+     "name": "تمرين الضغط",
+     "anim": "pushup",
+     "type": "reps",
+     "reps": 10,
+     "sets": 3,
+     "rest": 60,
+     "en": "Push-Ups"
+    },
+    {
+     "name": "ضغط Pike",
+     "anim": "pike-pushup",
+     "type": "reps",
+     "reps": 8,
+     "sets": 2,
+     "rest": 60,
+     "en": "Pike Push-Ups"
+    },
+    {
+     "name": "ضغط ضيّق",
+     "anim": "diamond-pushup",
+     "type": "reps",
+     "reps": 8,
+     "sets": 2,
+     "rest": 60,
+     "en": "Close Push-Ups"
+    },
+    {
+     "name": "بلانك",
+     "anim": "plank",
+     "type": "timer",
+     "duration": 30,
+     "sets": 2,
+     "rest": 45,
+     "en": "Plank"
+    }
+   ],
+   "day": 1,
+   "cooldown": []
+  },
+  {
+   "weekday": "الأربعاء",
+   "title": "أرجل + أرداف",
+   "type": "legs",
+   "icon": "🦵",
+   "warmup": [
+    {
+     "name": "مشي في المكان",
+     "anim": "walk",
+     "type": "timer",
+     "duration": 60,
+     "sets": 1,
+     "rest": 10,
+     "note": "دقيقة واحدة",
+     "en": "March in Place"
+    },
+    {
+     "name": "دوائر الحوض",
+     "anim": "hip-circles",
+     "type": "reps",
+     "reps": 10,
+     "sets": 1,
+     "rest": 10,
+     "note": "10 في كل اتجاه",
+     "en": "Hip Circles"
+    },
+    {
+     "name": "قطة – بقرة",
+     "anim": "cat-cow",
+     "type": "reps",
+     "reps": 10,
+     "sets": 1,
+     "rest": 10,
+     "en": "Cat-Cow"
+    },
+    {
+     "name": "سكوات بطيء",
+     "anim": "squat",
+     "type": "reps",
+     "reps": 10,
+     "sets": 1,
+     "rest": 10,
+     "en": "Slow Squats"
+    },
+    {
+     "name": "الدودة",
+     "anim": "pike-pushup",
+     "type": "reps",
+     "reps": 5,
+     "sets": 1,
+     "rest": 30,
+     "en": "Inchworm"
+    }
+   ],
+   "exercises": [
+    {
+     "name": "سكوات",
+     "anim": "squat",
+     "type": "reps",
+     "reps": 12,
+     "sets": 3,
+     "rest": 60,
+     "en": "Squats"
+    },
+    {
+     "name": "اندفاع خلفي",
+     "anim": "lunge",
+     "type": "reps",
+     "reps": 8,
+     "sets": 2,
+     "rest": 60,
+     "note": "8 لكل ساق",
+     "en": "Reverse Lunges"
+    },
+    {
+     "name": "جسر الأرداف",
+     "anim": "glute-bridge",
+     "type": "reps",
+     "reps": 12,
+     "sets": 3,
+     "rest": 45,
+     "en": "Glute Bridges"
+    },
+    {
+     "name": "جلسة الحائط",
+     "anim": "wall-sit",
+     "type": "timer",
+     "duration": 30,
+     "sets": 2,
+     "rest": 45,
+     "en": "Wall Sit"
+    },
+    {
+     "name": "رفع السمانة",
+     "anim": "calf-raise",
+     "type": "reps",
+     "reps": 15,
+     "sets": 2,
+     "rest": 45,
+     "en": "Calf Raises"
+    }
+   ],
+   "day": 2,
+   "cooldown": []
+  },
+  {
+   "weekday": "الخميس",
+   "title": "ظهر + بايسبس + كور",
+   "type": "pull",
+   "icon": "🏋️",
+   "warmup": [
+    {
+     "name": "مشي في المكان",
+     "anim": "walk",
+     "type": "timer",
+     "duration": 60,
+     "sets": 1,
+     "rest": 10,
+     "note": "دقيقة واحدة",
+     "en": "March in Place"
+    },
+    {
+     "name": "دوائر الذراعين",
+     "anim": "arm-circles",
+     "type": "reps",
+     "reps": 10,
+     "sets": 1,
+     "rest": 10,
+     "note": "10 في كل اتجاه",
+     "en": "Arm Circles"
+    },
+    {
+     "name": "قطة – بقرة",
+     "anim": "cat-cow",
+     "type": "reps",
+     "reps": 10,
+     "sets": 1,
+     "rest": 10,
+     "en": "Cat-Cow"
+    },
+    {
+     "name": "ثني الورك",
+     "anim": "hip-hinge",
+     "type": "reps",
+     "reps": 10,
+     "sets": 1,
+     "rest": 10,
+     "en": "Hip Hinges"
+    },
+    {
+     "name": "الدودة",
+     "anim": "pike-pushup",
+     "type": "reps",
+     "reps": 5,
+     "sets": 1,
+     "rest": 30,
+     "en": "Inchworm"
+    }
+   ],
+   "exercises": [
+    {
+     "name": "رفع Y-T-W (وضع الانبطاح)",
+     "anim": "superman",
+     "type": "reps",
+     "reps": 6,
+     "sets": 2,
+     "rest": 45,
+     "note": "6 لكل حرف",
+     "en": "Prone Y-T-W Raises"
+    },
+    {
+     "name": "سحب سوبرمان",
+     "anim": "superman",
+     "type": "reps",
+     "reps": 10,
+     "sets": 2,
+     "rest": 45,
+     "en": "Superman Pulls"
+    },
+    {
+     "name": "بايسبس بمقاومة ذاتية",
+     "anim": "bicep-curl",
+     "type": "reps",
+     "reps": 8,
+     "sets": 2,
+     "rest": 45,
+     "note": "8 لكل ذراع",
+     "en": "Self-Resisted Biceps Curl"
+    },
+    {
+     "name": "بيرد دوج",
+     "anim": "bird-dog",
+     "type": "reps",
+     "reps": 6,
+     "sets": 2,
+     "rest": 45,
+     "note": "6 لكل جانب",
+     "en": "Bird-Dog"
+    },
+    {
+     "name": "كرانش دراجة",
+     "anim": "bicycle-crunch",
+     "type": "reps",
+     "reps": 16,
+     "sets": 2,
+     "rest": 45,
+     "en": "Bicycle Crunch"
+    }
+   ],
+   "day": 3,
+   "cooldown": []
+  },
+  {
+   "weekday": "الجمعة",
+   "title": "راحة",
+   "type": "rest",
+   "icon": "😴",
+   "warmup": [],
+   "exercises": [
+    {
+     "name": "يوم راحة",
+     "anim": "walk",
+     "type": "timer",
+     "duration": 1200,
+     "sets": 1,
+     "rest": 0,
+     "note": "مشي اختياري 20–30 دقيقة",
+     "en": "Rest Day"
+    }
+   ],
+   "day": 4,
+   "cooldown": []
+  },
+  {
+   "weekday": "السبت",
+   "title": "الجزء العلوي",
+   "type": "full",
+   "icon": "🔥",
+   "warmup": [
+    {
+     "name": "مشي في المكان",
+     "anim": "walk",
+     "type": "timer",
+     "duration": 60,
+     "sets": 1,
+     "rest": 10,
+     "note": "دقيقة واحدة",
+     "en": "March in Place"
+    },
+    {
+     "name": "دوائر الذراعين",
+     "anim": "arm-circles",
+     "type": "reps",
+     "reps": 10,
+     "sets": 1,
+     "rest": 10,
+     "note": "10 في كل اتجاه",
+     "en": "Arm Circles"
+    },
+    {
+     "name": "قطة – بقرة",
+     "anim": "cat-cow",
+     "type": "reps",
+     "reps": 10,
+     "sets": 1,
+     "rest": 10,
+     "en": "Cat-Cow"
+    },
+    {
+     "name": "سكوات بطيء",
+     "anim": "squat",
+     "type": "reps",
+     "reps": 10,
+     "sets": 1,
+     "rest": 10,
+     "en": "Slow Squats"
+    },
+    {
+     "name": "الدودة",
+     "anim": "pike-pushup",
+     "type": "reps",
+     "reps": 5,
+     "sets": 1,
+     "rest": 30,
+     "en": "Inchworm"
+    }
+   ],
+   "exercises": [
+    {
+     "name": "تمرين الضغط",
+     "anim": "pushup",
+     "type": "reps",
+     "reps": 10,
+     "sets": 3,
+     "rest": 60,
+     "note": "10–12 تكرار",
+     "en": "Push-Ups"
+    },
+    {
+     "name": "رفع Y-T-W (وضع الانبطاح)",
+     "anim": "superman",
+     "type": "reps",
+     "reps": 6,
+     "sets": 2,
+     "rest": 45,
+     "note": "6 لكل حرف",
+     "en": "Prone Y-T-W Raises"
+    },
+    {
+     "name": "سحب سوبرمان",
+     "anim": "superman",
+     "type": "reps",
+     "reps": 10,
+     "sets": 2,
+     "rest": 45,
+     "en": "Superman Pulls"
+    },
+    {
+     "name": "بايسبس بمقاومة ذاتية",
+     "anim": "bicep-curl",
+     "type": "reps",
+     "reps": 8,
+     "sets": 2,
+     "rest": 45,
+     "note": "8 لكل ذراع",
+     "en": "Self-Resisted Biceps Curl"
+    },
+    {
+     "name": "بلانك",
+     "anim": "plank",
+     "type": "timer",
+     "duration": 30,
+     "sets": 2,
+     "rest": 45,
+     "en": "Plank"
+    }
+   ],
+   "day": 5,
+   "cooldown": []
+  },
+  {
+   "weekday": "الأحد",
+   "title": "أرجل + أرداف + بطن",
+   "type": "legs",
+   "icon": "⚡",
+   "warmup": [
+    {
+     "name": "مشي في المكان",
+     "anim": "walk",
+     "type": "timer",
+     "duration": 60,
+     "sets": 1,
+     "rest": 10,
+     "note": "دقيقة واحدة",
+     "en": "March in Place"
+    },
+    {
+     "name": "دوائر الحوض",
+     "anim": "hip-circles",
+     "type": "reps",
+     "reps": 10,
+     "sets": 1,
+     "rest": 10,
+     "note": "10 في كل اتجاه",
+     "en": "Hip Circles"
+    },
+    {
+     "name": "قطة – بقرة",
+     "anim": "cat-cow",
+     "type": "reps",
+     "reps": 10,
+     "sets": 1,
+     "rest": 10,
+     "en": "Cat-Cow"
+    },
+    {
+     "name": "سكوات بطيء",
+     "anim": "squat",
+     "type": "reps",
+     "reps": 10,
+     "sets": 1,
+     "rest": 10,
+     "en": "Slow Squats"
+    },
+    {
+     "name": "الدودة",
+     "anim": "pike-pushup",
+     "type": "reps",
+     "reps": 5,
+     "sets": 1,
+     "rest": 30,
+     "en": "Inchworm"
+    }
+   ],
+   "exercises": [
+    {
+     "name": "سكوات",
+     "anim": "squat",
+     "type": "reps",
+     "reps": 12,
+     "sets": 3,
+     "rest": 60,
+     "en": "Squats"
+    },
+    {
+     "name": "اندفاع خلفي",
+     "anim": "lunge",
+     "type": "reps",
+     "reps": 8,
+     "sets": 2,
+     "rest": 60,
+     "note": "8 لكل ساق",
+     "en": "Reverse Lunges"
+    },
+    {
+     "name": "جسر الأرداف",
+     "anim": "glute-bridge",
+     "type": "reps",
+     "reps": 12,
+     "sets": 3,
+     "rest": 45,
+     "en": "Glute Bridges"
+    },
+    {
+     "name": "رفع السمانة",
+     "anim": "calf-raise",
+     "type": "reps",
+     "reps": 15,
+     "sets": 2,
+     "rest": 45,
+     "en": "Calf Raises"
+    },
+    {
+     "name": "رفع الساقين (استلقاء)",
+     "anim": "leg-raise",
+     "type": "reps",
+     "reps": 8,
+     "sets": 2,
+     "rest": 45,
+     "en": "Lying Leg Raises"
+    }
+   ],
+   "day": 6,
+   "cooldown": []
+  },
+  {
+   "weekday": "الاثنين",
+   "title": "راحة تامة",
+   "type": "rest",
+   "icon": "🛌",
+   "warmup": [],
+   "exercises": [
+    {
+     "name": "راحة تامة",
+     "anim": "rest",
+     "type": "timer",
+     "duration": 60,
+     "sets": 1,
+     "rest": 0,
+     "note": "اشرب الماء ونم 7–9 ساعات",
+     "en": "Full Rest"
+    }
+   ],
+   "day": 7,
+   "cooldown": []
+  }
+ ],
+ "meals": [
+  {
+   "id": "breakfast",
+   "name": "الفطور",
+   "icon": "🍳",
+   "items": [
+    {
+     "n": "بيض كامل (مخفوق في ملعقة صغيرة زيت)",
+     "q": "4 بيضات"
+    },
+    {
+     "n": "خبز",
+     "q": "شريحة"
+    },
+    {
+     "n": "طماطم",
+     "q": "100 غ"
+    },
+    {
+     "n": "خيار",
+     "q": "100 غ"
+    },
+    {
+     "n": "موز",
+     "q": "1 حبة"
+    },
+    {
+     "n": "حليب",
+     "q": "250 مل"
+    }
+   ]
+  },
+  {
+   "id": "lunch",
+   "name": "الغداء",
+   "icon": "🍗",
+   "items": [
+    {
+     "n": "صدر دجاج مطبوخ",
+     "q": "200 غ"
+    },
+    {
+     "n": "أرز مطبوخ",
+     "q": "1.5 كوب (240 غ)"
+    },
+    {
+     "n": "فلفل حلو",
+     "q": "100 غ"
+    },
+    {
+     "n": "طماطم",
+     "q": "100 غ"
+    },
+    {
+     "n": "خيار",
+     "q": "100 غ"
+    },
+    {
+     "n": "زيت زيتون",
+     "q": "ملعقة صغيرة (5 غ)"
+    }
+   ]
+  },
+  {
+   "id": "dinner",
+   "name": "العشاء",
+   "icon": "🥔",
+   "items": [
+    {
+     "n": "فول (علبة)",
+     "q": "1 علبة (240 غ)"
+    },
+    {
+     "n": "بيض مسلوق",
+     "q": "2 بيضة"
+    },
+    {
+     "n": "بطاطس مسلوقة",
+     "q": "400 غ"
+    },
+    {
+     "n": "خيار",
+     "q": "100 غ"
+    },
+    {
+     "n": "زيت زيتون",
+     "q": "ملعقة صغيرة"
+    }
+   ]
+  }
+ ]
+}
